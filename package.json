@@ -1,7 +1,7 @@
 {
-  "name": "fti-bot",
+  "name": "nasiibbot",
   "version": "1.0.0",
-  "description": "Open-source Discord community bot with economy, games, events, and server utilities",
+  "description": "free Discord community bot kaas oo leh economy, games, events, iyo server utilities",
   "type": "module",
   "main": "bot.mjs",
   "scripts": {
