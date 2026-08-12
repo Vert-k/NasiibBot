@@ -1,0 +1,19 @@
+{
+  "name": "fti-bot",
+  "version": "1.0.0",
+  "description": "Open-source Discord community bot with economy, games, events, and server utilities",
+  "type": "module",
+  "main": "bot.mjs",
+  "scripts": {
+    "start": "node bot.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "@google/generative-ai": "^0.21.0",
+    "drizzle-orm": "^0.39.3",
+    "drizzle-zod": "^0.7.0",
+    "express": "^5.0.1",
+    "pg": "^8.16.3",
+    "zod": "^3.24.2"
+  }
+}
