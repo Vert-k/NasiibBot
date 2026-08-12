@@ -1,15 +1,10 @@
-# Security policy
+# Sharciga ilaalinta
 
-## Protecting local secrets
+## ilaalinta sirta
 
-Keep bot tokens, database URLs, and API keys in `.env`. The `.gitignore` file
-already excludes `.env` from Git. Do not replace that rule with a real secret.
+ilaasho bot tokenska, linkska databaseka, iyo API keys `.env`. sidoo kale `.gitignore` file ayaa waxaa horey ugu jira `.env` Haku badalin xeerarkaas kuwo sax ah, Ha samayn .
 
-If a secret is accidentally committed:
-
-1. Revoke or rotate it immediately with the provider.
-2. Remove it from the working tree.
-3. Rewrite Git history if the repository was already published.
+Sida loo dhawro fadlan ka aqri fileka Readme
 
 ## Reporting a vulnerability
 
