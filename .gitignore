@@ -1,0 +1,20 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs and local caches
+*.log
+.npm/
+.cache/
+npm-debug.log*
+
+# Local database and editor files
+*.sqlite
+*.sqlite3
+.DS_Store
+.idea/
+.vscode/
