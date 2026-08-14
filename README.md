@@ -20,7 +20,7 @@ Sourcekan waxaa loo diyaariyey si nidaam oo qurux badan asiga oo kala leh:
 
 - node.js 20 ama kuwa ugu dambeeyey
 - Discord bot iyo discord bot token (waxaad ka heli kartaa developer portal )
-- PostgreSQL database ( ku isticmaal mangodb adi iyo aqoontaada)
+- PostgreSQL database ( Mangodb kuma isticmaali kartid ilaa aad code base data base wax ka badashid)
 - A Gemini API key (kaliya hadii aad rantid in aad isticmaashid gemini ai)
 
 ## Sida loo kiciyo
